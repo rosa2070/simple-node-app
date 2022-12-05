@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        PROJECT_ID = 'daring-emitter-344207'
+        PROJECT_ID = 'oss2022fall'
         CLUSTER_NAME = 'kube'
         LOCATION = 'asia-northeast3-a'
         CREDENTIALS_ID = 'gke'
